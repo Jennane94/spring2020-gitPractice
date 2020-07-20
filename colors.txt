@@ -2,3 +2,6 @@ blue
 yellow
 white
 red "for lovers"
+hi simo
+green
+Maroc
