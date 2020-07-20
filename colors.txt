@@ -9,8 +9,6 @@ I love haider bc he helps me a lot.
 Git is smart bit I'm not
 grey
 pink
-<<<<<<< HEAD
 Cybertek
-=======
 Mohammed is still sleeping , really lucky guy
->>>>>>> e622de40323033c4dc3c0f745c2a85211bc6ee48
+
