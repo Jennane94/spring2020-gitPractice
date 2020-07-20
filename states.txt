@@ -4,3 +4,5 @@ Florida
 Califronia
 Texas
 Arizona
+Ohaio
+Washington
